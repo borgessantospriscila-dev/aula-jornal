@@ -1,22 +1,36 @@
 body{
-    background-color: rgba(197, 207, 207, 0.37);
+    background-color: rgba(185, 187, 187, 0.74);
 }
 
 .titulo{
     color: #000000;
     text-align: center;
+    font-size: 45px;
 }
 
 .subititulo{
-    color: rgb(111, 112, 112);
-    text-align: left;
+    color: rgb(0, 0, 0);
+    text-align: center;
 }
 
 .texto{
-    color: rgb( 111, 112, 112);
+    color: rgb(0, 0, 0);
     font-size: 130%;
+    text-align: center;
+}
+
+.texto2{
+    text-align: right;
 }
 
 .imagem{
+    margin-top: 80px;
+    margin-right: 1990px;
+    width: 650px;
+}
 
+.imagem2{
+    margin-top: 30px;
+    margin-right: 1990px;
+    width: 650px;
 }
